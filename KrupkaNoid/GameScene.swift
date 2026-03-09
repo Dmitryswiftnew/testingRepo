@@ -47,7 +47,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     
     
     
-    
+    // привет
     
     
     
